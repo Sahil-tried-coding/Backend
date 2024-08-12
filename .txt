@@ -1,0 +1,12 @@
+{
+    "name":"harshada",
+    "email":"harshada1118@gmail.com",
+    "password":"sahillovesharshada",
+    "role":"student"
+}
+{
+    "name":"ironman",
+    "email":"ironman@gmail.com",
+    "password":"ironman-op",
+    "role":"Visitor"
+}
